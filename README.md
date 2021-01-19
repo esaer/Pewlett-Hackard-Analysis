@@ -9,7 +9,7 @@ The analysis is also to prepare Bobby’s manager for the “silver tsunami” a
 ## Results 
 
 1. Senior engineer, senior staff and engineer are the top 3 titles which have the highest numbers of retiring employees 
-![](https://github.com/esaer/School_District_Analysis/blob/main/District%20Summary.PNG)
+![](https://github.com/esaer/Pewlett-Hackard-Analysis/blob/main/Title%20Count.PNG)
 2. Assistant engineer position does not have a large retiring population
 3. Only 1550 people have the mentorship eligibility 
 4. People have mentorship eligiblity is much less than the retiring employees
